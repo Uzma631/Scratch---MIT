@@ -1,0 +1,25 @@
+🎮 ##Space Defender – Scratch Shooting Game
+
+🚀 Project Overview
+This is a 2D shooting game built using Scratch (MIT platform).
+The player controls a spaceship, shoots enemies, tracks score, and survives using a 3-life system.
+
+🎯 Features
+Player movement (left & right)
+Shooting bullets using clones
+Random enemy spawning
+Score tracking system
+3 Lives system
+Game Over condition
+Collision detection
+
+🧠 Concepts Used
+Variables (score, lives)
+Clones
+Loops (forever, repeat until)
+Conditional statements
+Operators (OR condition)
+Event-driven programming
+
+📂 File
+Download .sb3 file and open in Scratch to play.
